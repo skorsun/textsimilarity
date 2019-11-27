@@ -1,0 +1,7 @@
+Research in this area is still in its infancy but demonstrates that debunking misinformation on the Web is a formidable challenge.
+This is due to several reasons.
+First, the open nature of social platforms such as Facebook and Twitter allows users to freely produce and propagate any content without authentication, and this has been exploited to spread hundreds of thousands of fake news at a rate of more than three million social posts per minute.
+Second, those responsible for the spread of misinformation harvest the power of AI attacking models to mix and disguise falsehoods with common news.
+Methods of camouﬂage are used to cover digital footprints through synthesizing millions of fake accounts and appearing to participate in normal social interactions with other users.
+Third, innocent users, without proper alerts from algorithmic models, can accidentally spread misinformation in an exponential wave of shares, posts, and articles.
+The misinformation wave is often only detected when already beyond control and consequently can cause large-scale eﬀects in a very short time.
